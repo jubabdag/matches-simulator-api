@@ -49,5 +49,22 @@
       "forca": 3,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/co.png"
     }
+  },
+  {
+    "descricao": "Eliminatórias Copa 2022",
+    "local": {
+      "nome": "Nacional do Uruguai",
+      "imagem": "https://www.correiodopovo.com.br/image/policy:3.209088:1547799276/450234.JPG?a=2%3A1&$p$a=d7f6850"
+    },
+    "mandante": {
+      "nome": "Uruguai",
+      "forca": 3,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
+    },
+    "visitante": {
+      "nome": "Brasil",
+      "forca": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+    }
   }
 ]
