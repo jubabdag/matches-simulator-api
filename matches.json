@@ -66,5 +66,22 @@
       "forca": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
     }
+  },
+  {
+    "descricao": "Eliminatórias Copa 2022",
+    "local": {
+      "nome": "Aguiar Buenos Aires",
+      "imagem": "https://aguiarbuenosaires.com/wp-content/uploads/2020/02/BOMBONERA.jpg"
+    },
+    "mandante": {
+      "nome": "Argentina",
+      "forca": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+    },
+    "visitante": {
+      "nome": "Uruguai",
+      "forca": 3,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
+    }
   }
 ]
